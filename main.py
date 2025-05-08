@@ -1,5 +1,2 @@
-def say_hello():
-    print("سلام از برنامه پایتونی ساده!")
+print("این خط برای تست Webhook اضافه شد")
 
-if __name__ == "__main__":
-    say_hello()
